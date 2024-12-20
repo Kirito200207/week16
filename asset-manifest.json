@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kirito200207/week16/static/css/main.898e28d1.css",
+    "main.js": "/Kirito200207/week16/static/js/main.85d92db6.js",
+    "index.html": "/Kirito200207/week16/index.html",
+    "main.898e28d1.css.map": "/Kirito200207/week16/static/css/main.898e28d1.css.map",
+    "main.85d92db6.js.map": "/Kirito200207/week16/static/js/main.85d92db6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.898e28d1.css",
+    "static/js/main.85d92db6.js"
+  ]
+}
